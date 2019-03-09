@@ -2,8 +2,8 @@
 def Deli_Count( Katz_deli, other_deli, another_deli )
    Katz_deli = Array.new 
    
-    loop do
-      if 
+    Katz_deli.each do 
+      puts "The Line is currently empty"
   
   
 end
